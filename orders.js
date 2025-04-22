@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
       id: 7,
       name: "Dry Herbal Cleanser",
       description: "A powdered blend used to gently cleanse, detox, and refresh the skin without stripping natural oils",
-      price: 309,
+      price: 300,
       image: "dryherbalfacecleanser.png"
     },
     {
