@@ -13,28 +13,28 @@ document.addEventListener("DOMContentLoaded", () => {
       id: 2,
       name: "Dry herbal Moisturizer",
       description: "A powder-form herbal blend that hydrates when mixed, perfect for natural skincare",
-      price: 250,
+      price: 320,
       image: "dryherbalmoisturizer.png"
     },
     {
       id: 3,
       name: "Beetroot Lip balm",
       description: "Tinted lip balm with beetroot extract for natural color and lasting hydration",
-      price: 200,
+      price: 250,
       image: "beetrootlipbalm.png"
     },
     {
       id: 4,
       name: "Coffee Lip balm",
       description: "Energizing coffee-infused balm that soothes and plumps your lips",
-      price: 170,
+      price: 300,
       image: "coffeelipbalm.png"
     },
     {
       id: 5,
       name: "Coffee and Sugar Body Scrub",
       description: "Energizing scrub that exfoliates and smooths skin with a blend of coffee and sugar and removes dead skin cells",
-      price: 290,
+      price: 300,
       image: "coffeeandsugarbodyscrub.png"
     },
     {
@@ -48,14 +48,14 @@ document.addEventListener("DOMContentLoaded", () => {
       id: 7,
       name: "Dry Herbal Cleanser",
       description: "A powdered blend used to gently cleanse, detox, and refresh the skin without stripping natural oils",
-      price: 259,
+      price: 309,
       image: "dryherbalfacecleanser.png"
     },
     {
       id: 8,
       name: "Alo Honey Face Cleanser",
       description: "A soothing gel cleanser used to hydrate, calm, and deeply cleanse the skin while maintaining its natural glow",
-      price: 200,
+      price: 320,
       image: "alohoneyfacecleanser.png"
     },
     {
