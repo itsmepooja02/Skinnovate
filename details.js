@@ -29,12 +29,12 @@ document.addEventListener("DOMContentLoaded", () => {
         price: 250,
         image: "beetrootlipbalm.png"
       },
-      {
+        {
         id: 4,
-        name: "Coffee Lip balm",
-        description: "Energizing coffee-infused balm that soothes and plumps your lips.Infused with real coffee extract to energize and refresh your lips throughout the day.Perfect for daily use, especially in cold or dry weather.",
+        name: "Orange Lip balm",
+        description: "A nourishing lip balm infused with natural orange essence to hydrate, brighten, and refresh your lips",
         price: 300,
-        image: "coffeelipbalm.png"
+        image: "orangelipbalm.png"
       },
       {
         id: 5,
