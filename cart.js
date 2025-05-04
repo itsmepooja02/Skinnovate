@@ -4,7 +4,7 @@ const soaps = [
   { id: 1, name: "Butter based Moisturizer", price: 300, image: "butterbasedmoisturizer.png" },
   { id: 2, name: "Dry herbal Moisturizer", price: 320, image: "dryherbalmoisturizer.png" },
   { id: 3, name: "Beetroot Lip balm", price: 250, image: "beetrootlipbalm.png" },
-  { id: 4, name: "Coffee Lip balm", price: 300, image: "coffeelipbalm.png" },
+  {id: 4,name: "Orange Lip balm",price: 300,image: "orangelipbalm.png"  },
   { id: 5, name: "Coffee and Sugar Body Scrub", price: 300, image: "coffeeandsugarbodyscrub.png" },
   { id: 6, name: "Dry Herbal Body Scrub", price: 300, image: "dryherbalbodyscrub.png" },
   { id: 7, name: "Dry Herbal Cleanser", price: 300, image: "dryherbalfacecleanser.png" },
