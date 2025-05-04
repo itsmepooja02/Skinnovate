@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
         id: 4,
         name: "Orange Lip balm",
-        description: "A nourishing lip balm infused with natural orange essence to hydrate, brighten, and refresh your lips",
+        description: "A nourishing lip balm infused with natural orange essence to hydrate, brighten, and refresh your lips delivers deep hydration and a burst of citrus freshness, enriched with natural orange extracts to soften, brighten, and revitalize dry lips",
         price: 300,
         image: "orangelipbalm.png"
       },
