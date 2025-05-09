@@ -40,7 +40,7 @@ footer {
   bottom: 0;
   width: 100%;
   height: 30px; /* optional: controls height */
-  background-color: #c24bcbb9;
+  background-color: #38a169;
   color: whitesmoke;
 
   display: flex; /* <---- THIS is the key */
@@ -128,7 +128,7 @@ main {
 #checkout-btn {
   padding: 10px 20px;
   font-size: 16px;
-  background: #c24bcbb9;
+  background: #38a169;
   color: white;
   border: none;
   border-radius: 8px;
@@ -136,7 +136,7 @@ main {
 }
 
 #checkout-btn:hover {
-  background: #c24bcb;
+  background: #065029;
 }
 
 .spinner {
@@ -191,7 +191,7 @@ main {
 
 /* Add to Cart Button */
 .product-card button {
-  background: #c24bcbb9;
+  background: #38a169;
   color: white;
   padding: 0.5em 1em;
   border: none;
@@ -203,7 +203,7 @@ main {
 }
 
 .product-card button:hover {
-  background: #c24bcb;
+  background: #05562b;
 }
 
 .product-card button:active {
@@ -246,7 +246,7 @@ main {
   width: 40px;
   height: 40px;
   border: 5px solid #c6f6d5;
-  border-top: 5px solid #c24bcbb9;
+  border-top: 5px solid #38a169;
   border-radius: 50%;
   animation: spin 1s linear infinite;
 }
@@ -272,7 +272,7 @@ main {
   width: 40px;
   height: 40px;
   border: 5px solid #c6f6d5;
-  border-top: 5px solid #c24bcbb9;
+  border-top: 5px solid #38a169;
   border-radius: 50%;
   animation: spin 1s linear infinite;
 }
